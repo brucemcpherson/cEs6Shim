@@ -1,5 +1,5 @@
 # Google Apps Script Project: cEs6Shim
-This repo (cEs6Shim) was automatically updated on 15 September 2017 15:38:46 BST by GasGit
+This repo (cEs6Shim) was automatically updated on 31 October 2018 11:39:59 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cEs6Shim
@@ -10,11 +10,14 @@ The shared link for [cEs6Shim is here](https://script.google.com/d/1dvi84vwjD03Y
 *name*|*type*
 --- | --- 
 Code| server_js
+appsscript| json
 ### Directly referenced libraries
 no libraries discovered
 ### All dependencies and sub dependencies
 no libraries discovered
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
